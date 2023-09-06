@@ -7,7 +7,7 @@
 
 ## Connect With Me
 <div>
-  <a href="(https://www.datascienceportfol.io/wahid_upal)" alt="Portfolio" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874286-b485e529-50e4-49b5-a237-2dc5e62d6815.png" alt="Web" width="30px" /></a>
+  <a href="https://www.datascienceportfol.io/wahid_upal" alt="Portfolio" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874286-b485e529-50e4-49b5-a237-2dc5e62d6815.png" alt="Web" width="30px" /></a>
  <a href="mailto:wahidur.upal@tuhh.de" alt="upal140890@gmail.com" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198883053-023b7933-876b-4853-9d6f-22255a55c723.png" alt="Email" width="30px" /></a>
   <a href="https://www.linkedin.com/in/wahid-upal1408/"target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198874337-9ea0550e-6946-4c37-8798-47d9983a4d5a.png" alt="LinkedIn" width="30px" /></a>
 </div>
