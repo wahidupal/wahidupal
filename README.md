@@ -40,6 +40,4 @@
 
 
 
-## GitHub Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=wahidupal&show_icons=true&theme=merko" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidupal&layout=compact&hide=html,css,c%2B%2B&theme=merko" />
+
