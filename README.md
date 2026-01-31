@@ -1,7 +1,7 @@
 # <p align="center">Hi there, I'm Wahid <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 ## About Me
-- 🎓 Master's student in Microelectronics and Microsystem Engineering at TUHH
+- 🎓 Master's in Microelectronics and Microsystem Engineering from TUHH
 - 🤖 Passionate about Machine Learning, AI, Data Science, and Innovation
 - 💡 Committed to continuous learning and pushing technological boundaries
 
